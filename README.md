@@ -1,1 +1,1 @@
-# Qu-n-l-i-m-c-a-sinh-vi-n
+# Quản lý điểm của sinh viên
